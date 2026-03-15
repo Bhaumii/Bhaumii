@@ -14,6 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaumii&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### Top Contributed Repo
-![Hacklytics @ GT](https://github-readme-stats.vercel.app/api/pin/?username=Bhaumii&repo=Emotica&theme=catppuccin_mocha)
+[![Hacklytics @ GT](https://github-readme-stats.vercel.app/api/pin/?username=Bhaumii&repo=Emotica&theme=catppuccin_mocha)](https://github.com/Bhaumii/Emotica)
 
 ---

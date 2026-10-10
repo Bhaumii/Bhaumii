@@ -1,7 +1,6 @@
 ## Hi I'm Bhaumi 
 🎓 Computer Science @ UGA | Concentrating in AI & Human-Centric Design.</br>
 🔍 AI Researcher | Investigating the sociotechnical impacts of LLMs at the Socially Responsible Tech Lab.</br>
-💻 Learn more about me at https://bhauminadella.vercel.app/
 
 ### Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhaumi-nadella/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nadellabhaumi@gmail.com) 

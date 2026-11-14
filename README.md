@@ -6,20 +6,6 @@
 - **Email:** [nadellabhaumi@gmail.com](mailto:nadellabhaumi@gmail.com)
 - **LinkedIn:** [linkedin.com/in/bhaumi-nadella](https://linkedin.com/in/bhaumi-nadella/)
 
-### 🎓 Break Through Tech Experience
-
-**Break Through Tech AI Program: AI Studio (Fall 2026)**
-*Sports Analytics 1A: Assessing Football Stadium Attendance and Experience*
-
-- Team coordinator for a machine learning project predicting which college football games reach high stadium attendance (90% or more of capacity).
-- Pulled the full dataset (2,021 FBS home games, 2024–2026) and helped define the "high attendance" label.
-- Ran team updates and prepared the presentation for check-ins with our Challenge Advisor.
-
-**Break Through Tech AI Program: Machine Learning Foundations (Summer 2026)**
-*ML life cycle, evaluation and deployment assignment*
-
-- Trained and saved a logistic regression model on Airbnb listing data.
-
 ### 🚀 Featured Projects
 
 | Project | What it is |

@@ -1,12 +1,33 @@
-## Hi, I'm Bhaumi!
+## Hi, I'm Bhaumi 
 🎓 Computer Science & Math @ UGA | Concentrating in AI & Human-Centric Design<br/>
 🔍 AI Researcher | Investigating the sociotechnical impacts of LLMs at the Socially Responsible Tech Lab
 
 ### 📬 Contact
-
 - **Email:** [nadellabhaumi@gmail.com](mailto:nadellabhaumi@gmail.com)
 - **LinkedIn:** [linkedin.com/in/bhaumi-nadella](https://linkedin.com/in/bhaumi-nadella/)
 
+### 🎓 Break Through Tech Experience
+
+**Break Through Tech AI Program: AI Studio (Fall 2026)**
+*Sports Analytics 1A: Assessing Football Stadium Attendance and Experience*
+
+- Team coordinator for a machine learning project predicting which college football games reach high stadium attendance (90% or more of capacity).
+- Pulled the full dataset (2,021 FBS home games, 2024–2026) and helped define the "high attendance" label.
+- Ran team updates and prepared the presentation for check-ins with our Challenge Advisor.
+
+**Break Through Tech AI Program: Machine Learning Foundations (Summer 2026)**
+*ML life cycle, evaluation and deployment assignment*
+
+- Trained and saved a logistic regression model on Airbnb listing data.
+
+### 🚀 Featured Projects
+
+| Project | What it is |
+| --- | --- |
+| [**Sports Analytics 1A**](https://github.com/Break-Through-Tech/Sports-Analytics-1A-assessing-football-stadium-attendance-and-experience) | Break Through Tech AI Studio project predicting high football stadium attendance with machine learning (Jupyter notebooks, feature engineering, model evaluation). |
+| [**Emotica**](https://github.com/Bhaumii/emotica-emotion-adaptive-game) | Real-time emotion detection for games (Hacklytics @ Georgia Tech). Reads player facial expressions every 2 seconds, adapts difficulty to mood, and logs emotional telemetry to a live cloud database. |
+| [**ASADatafest**](https://github.com/Bhaumii/asa-datafest) | UGA DataFest 2026 Honorable Mention. Analysis of 7.6M+ healthcare encounters from Stormont Vail Health across 19 Northeast Kansas counties, focused on healthcare inequity. |
+| [**Stickie**](https://github.com/fifi-24/Stickie) | iMessage agent that turns group-chat plans into calendar events (HackGT, recognized by Meta sponsors). Team project. |
 
 ### 🛠️ Tech Stack
 
@@ -16,11 +37,11 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat&logo=adobeindesign&logoColor=FF3366) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)
 
-### 🚀 Top Contributed Repos
+### 📊 GitHub Activity
 
-| Project | What it is |
-| --- | --- |
-| [**Emotica**](https://github.com/Bhaumii/Emotica) | Real-time emotion detection for games (Hacklytics @ Georgia Tech). Reads player facial expressions every 2 seconds, adapts difficulty to mood, and logs emotional telemetry to a live cloud database. |
-| [**ASADatafest**](https://github.com/Bhaumii/ASADatafest) | DataFest 2026 challenge using four years of encounter records from Stormont Vail Health. |
-| [**Sports Analytics 1A**](https://github.com/Break-Through-Tech/Sports-Analytics-1A-assessing-football-stadium-attendance-and-experience) | Break Through Tech project assessing football stadium attendance and experience. |
-| [**Stickie**](https://github.com/fifi-24/Stickie) | Team hackathon project. |
+[![GitHub streak and contributions](https://streak-stats.demolab.com/?user=Bhaumii&theme=tokyonight&hide_border=true)](https://github.com/Bhaumii)
+
+### 🌱 Growth Areas & Next Steps
+
+- Building a steady weekly commit habit (goal: 3 or more contribution days per week).
+- Making pull requests to open-source projects, starting with small documentation and test fixes.
